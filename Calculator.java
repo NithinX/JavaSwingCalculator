@@ -38,7 +38,7 @@ public class Calculator implements ActionListener {
 
 
     public Calculator(){
-        jf= new JFrame("Calculator Nithin Xavier");
+        jf= new JFrame("Calculator");
         jf.setLayout(null);
         jf.setSize(450,700);
         jf.setLocation(300,150);
